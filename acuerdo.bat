@@ -1,0 +1,3 @@
+@echo off
+echo Espere mientras se ejecuta el script...
+start C:/conda/miniconda3/envs/py37/python.exe "C:\Documentos Empresa\OneDrive - MINEROS\Desktop\Automatizaciones\auditoria\acuerdos\acuerdos.py"
